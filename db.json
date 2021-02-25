@@ -1,4 +1,11 @@
 {
-  id: 123,
-  message: "Hello world from the API"
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
