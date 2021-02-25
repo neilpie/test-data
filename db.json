@@ -1,0 +1,4 @@
+{
+  id: 123,
+  message: "Hello world from the API"
+}
